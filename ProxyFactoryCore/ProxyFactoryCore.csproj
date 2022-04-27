@@ -8,6 +8,8 @@
     <Version>1.0.23</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Murat Güler</Authors>
+    <AssemblyVersion>1.0.24.0</AssemblyVersion>
+    <FileVersion>1.0.24.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
